@@ -1,2 +1,2 @@
 variable = new String("Test");
-variable.
+variable. ;
